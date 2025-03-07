@@ -73,4 +73,4 @@ A entrega será validada por meio do **GitHub Classroom**, garantindo que todas 
 Esta é a primeira etapa da sua jornada no **Journey Web 2025**. Aproveite essa experiência para fortalecer seu conhecimento e desenvolver boas práticas no uso de Git e GitHub!
 
 **Bom desafio! 🚀**
-  
+obrigado!
